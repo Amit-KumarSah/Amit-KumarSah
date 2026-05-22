@@ -1,12 +1,14 @@
 # AI Product Manager building reusable agentic AI systems for retail commerce
 
-I’m **Amit Kumar Sah**, a Product Manager at IBM working on AI agents, MCP tools, and LLM workflows for enterprise commerce.
+I’m **Amit Kumar Sah**, a Product Manager at IBM working on AI agents, MCP tools, LLM workflows, and enterprise commerce product experiences.
 
-I design practical AI product frameworks that help teams move from AI ideas to deployable agents, MCP tools, human-in-the-loop workflows, evaluation systems, and enterprise-ready operating models.
+I maintain this GitHub as a living portfolio of my AI product thinking, reusable frameworks, product artifacts, and reference patterns for building agentic AI systems in retail commerce and enterprise workflows.
 
-- Agentic AI patterns for retail commerce, customer care, store operations, order management, inventory, fulfillment, and enterprise operations.
-- MCP and tool-use frameworks that help agents safely connect with business APIs, policies, and workflows.
-- PM playbooks for opportunity discovery, agent design, guardrails, evaluation, launch readiness, and measurable business value.
+I focus on turning AI ideas into practical product systems: agents, tools, human-in-the-loop workflows, evaluation methods, and operating models that can work inside real business processes.
+
+- I build agentic AI patterns for retail commerce, customer care, store operations, order management, inventory, fulfillment, and enterprise operations.
+- I design MCP and tool-use frameworks that help agents safely connect with business APIs, policies, and workflows.
+- I document PM playbooks for opportunity discovery, agent design, guardrails, evaluation, launch readiness, and measurable business value.
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=flat-square)
 ![MCP Tools](https://img.shields.io/badge/MCP%20Tools-2563EB?style=flat-square)
@@ -20,13 +22,13 @@ I design practical AI product frameworks that help teams move from AI ideas to d
 
 ## What this GitHub is for
 
-This GitHub is not just a portfolio.
+I maintain this GitHub as more than a profile.
 
-It is a public-safe working reference for product managers, architects, and builders who want to design agentic AI systems for real commerce workflows.
+It is my public working space for documenting how I think about AI products, agentic systems, MCP tools, retail commerce workflows, and enterprise AI adoption.
 
-The focus is on reusable frameworks, agent patterns, MCP tool design, evaluation methods, human-in-the-loop controls, and product artifacts that can be adapted across business lines.
+The focus is not on one-off demos. The focus is on reusable frameworks, product patterns, architecture thinking, PM artifacts, and decision models that can be adapted across business lines.
 
-Use this profile if you are trying to answer:
+I use this profile to organize my thinking around questions like:
 
 - Where does agentic AI actually make sense?
 - When should a workflow become automation, a copilot, or an agent?
@@ -35,8 +37,11 @@ Use this profile if you are trying to answer:
 - Where should human approval sit?
 - How should AI agents be evaluated before launch?
 - What metrics prove the product is working?
+- How can the same AI pattern be reused across multiple commerce workflows?
 
 ## What I work on
+
+I work on AI product problems where model capability, business workflow, system integration, and user trust all matter.
 
 - AI agents for retail and commerce workflows: call centers, stores, order management, inventory, fulfillment, and operations.
 - MCP tools that let agents safely connect with business APIs and enterprise systems.
@@ -48,14 +53,14 @@ Use this profile if you are trying to answer:
 
 ## Frameworks I’m building
 
-| Framework | What it shows | Status |
+| Framework | What I’m documenting | Status |
 |---|---|---|
 | Retail AI Agent Platform | How reusable agents, tools, guardrails, memory, approval flows, and observability fit together | Drafting |
 | MCP Commerce Tools | Tool specs and examples for search, validate, update, cancel, recommend, explain, and escalate workflows | Planned |
 | AI Agent PRDs | Product requirements, user stories, KPIs, risks, launch scope, acceptance criteria, and pilot plans | Planned |
 | RAG and Knowledge Patterns | How agents use policies, runbooks, product docs, SOPs, FAQs, and operational knowledge | Planned |
-| AI Evaluation Notes | How to measure usefulness, groundedness, latency, tool success, escalation quality, and user trust | Planned |
-| Partner Enablement | How reusable agent and tool patterns help implementation teams move faster | Planned |
+| AI Evaluation Notes | How I think about usefulness, groundedness, latency, tool success, escalation quality, and user trust | Planned |
+| Partner Enablement | How reusable agent and tool patterns can help implementation teams move faster | Planned |
 
 ## How I think about AI products
 
@@ -73,11 +78,13 @@ The questions I come back to:
 - What happens when the agent is wrong?
 - How does the workflow improve after launch?
 
+My bias is to start with the workflow, not the model. The model matters, but the product system around it is what makes AI useful in enterprise settings.
+
 ## My agentic AI mental model
 
 A useful enterprise agent is not just a prompt wrapped around a model.
 
-It is a bounded decision and execution system with:
+I think of an enterprise agent as a bounded decision and execution system with:
 
 - a clear business goal
 - trusted context
@@ -136,7 +143,9 @@ The approval, escalation, and override paths required when risk is high.
 
 ## How product managers can use this
 
-Product managers can use these frameworks to:
+I maintain these frameworks so other product managers can use them as starting points for their own AI product work.
+
+Product managers can use this portfolio to:
 
 1. Identify where AI fits in a business workflow.
 2. Decide whether the solution should be automation, copilot, or agent.
@@ -160,6 +169,8 @@ Improve the system.
 ```
 
 ## Current roadmap
+
+I maintain this roadmap to keep the portfolio focused and useful.
 
 ### Now
 
@@ -187,12 +198,12 @@ Improve the system.
 
 ## About me
 
-- Product Manager at IBM working on AI agents and enterprise commerce product experiences.
-- Building a public-safe portfolio that combines product thinking, agent architecture, and practical AI workflows.
-- Interested in AI systems that can search, summarize, recommend, act with approval, and explain what happened.
-- This portfolio is maintained by me as a living reference for AI product thinking and reusable agentic AI patterns.
+- I’m a Product Manager at IBM working on AI agents and enterprise commerce product experiences.
+- I’m building a public-safe portfolio that combines product thinking, agent architecture, and practical AI workflows.
+- I’m interested in AI systems that can search, summarize, recommend, act with approval, and explain what happened.
+- I maintain this GitHub myself as a living reference for my AI product thinking and reusable agentic AI patterns.
 
 ## Connect
 
-- GitHub: [amitk-sah](https://github.com/amitk-sah)
+- GitHub: [Amit-KumarSah](https://github.com/Amit-KumarSah)
 - LinkedIn: [amit-kumar-sah](https://www.linkedin.com/in/amit-kumar-sah/)
