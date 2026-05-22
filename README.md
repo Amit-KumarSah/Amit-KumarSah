@@ -18,37 +18,6 @@ I focus on turning AI ideas into practical product systems: agents, tools, human
 ![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-DC2626?style=flat-square)
 ![Evaluation](https://img.shields.io/badge/Evaluation-0F766E?style=flat-square)
 
----
-
-## More about this portfolio
-
-I keep the operating model, roadmap, and writing rules for this portfolio in supporting docs:
-
-- [Portfolio Operating Model](docs/PORTFOLIO_OPERATING_MODEL.md)
-- [Roadmap](docs/ROADMAP.md)
-- [Style Guide](docs/STYLE_GUIDE.md)
-
----
-
-## What this GitHub is for
-
-I maintain this GitHub as more than a profile.
-
-It is my public working space for documenting how I think about AI products, agentic systems, MCP tools, retail commerce workflows, and enterprise AI adoption.
-
-The focus is not on one-off demos. The focus is on reusable frameworks, product patterns, architecture thinking, PM artifacts, and decision models that can be adapted across business lines.
-
-I use this profile to organize my thinking around questions like:
-
-- Where does agentic AI actually make sense?
-- When should a workflow become automation, a copilot, or an agent?
-- How should enterprise APIs become safe AI tools?
-- What kind of memory should an enterprise agent have?
-- Where should human approval sit?
-- How should AI agents be evaluated before launch?
-- What metrics prove the product is working?
-- How can the same AI pattern be reused across multiple commerce workflows?
-
 ## What I work on
 
 I work on AI product problems where model capability, business workflow, system integration, and user trust all matter.
@@ -60,17 +29,6 @@ I work on AI product problems where model capability, business workflow, system 
 - Human-in-the-loop flows for actions like cancellations, refunds, coupons, inventory changes, operational decisions, and service recovery.
 - AI product artifacts: PRDs, epics, KPIs, private preview plans, launch notes, FAQs, partner enablement, and release readiness.
 - Evaluation patterns for groundedness, usefulness, latency, tool success, trust, escalation, and business value.
-
-## Frameworks I’m building
-
-| Framework | What I’m documenting | Status |
-|---|---|---|
-| Retail AI Agent Platform | How reusable agents, tools, guardrails, memory, approval flows, and observability fit together. | Drafting |
-| MCP Commerce Tools | Tool specs and examples for search, validate, update, cancel, recommend, explain, and escalate workflows. | Planned |
-| AI Agent PRDs | Product requirements, user stories, KPIs, risks, launch scope, acceptance criteria, and pilot plans. | Planned |
-| RAG and Knowledge Patterns | How agents use policies, runbooks, product docs, SOPs, FAQs, and operational knowledge. | Planned |
-| AI Evaluation Notes | How I think about usefulness, groundedness, latency, tool success, escalation quality, and user trust. | Planned |
-| Partner Enablement | How reusable agent and tool patterns can help implementation teams move faster. | Planned |
 
 ## How I think about AI products
 
@@ -138,6 +96,17 @@ The test cases, metrics, and review processes that determine whether the agent i
 **Human Review**  
 The approval, escalation, and override paths required when risk is high.
 
+## Frameworks I’m building
+
+| Framework | What I’m documenting | Status |
+|---|---|---|
+| Retail AI Agent Platform | How reusable agents, tools, guardrails, memory, approval flows, and observability fit together. | Drafting |
+| MCP Commerce Tools | Tool specs and examples for search, validate, update, cancel, recommend, explain, and escalate workflows. | Planned |
+| AI Agent PRDs | Product requirements, user stories, KPIs, risks, launch scope, acceptance criteria, and pilot plans. | Planned |
+| RAG and Knowledge Patterns | How agents use policies, runbooks, product docs, SOPs, FAQs, and operational knowledge. | Planned |
+| AI Evaluation Notes | How I think about usefulness, groundedness, latency, tool success, escalation quality, and user trust. | Planned |
+| Partner Enablement | How reusable agent and tool patterns can help implementation teams move faster. | Planned |
+
 ## Product areas I know well
 
 | Product Area | AI/Product Focus |
@@ -151,7 +120,7 @@ The approval, escalation, and override paths required when risk is high.
 | Partner implementation | Reusable agent patterns, tool specs, enablement assets, and implementation playbooks. |
 | Enterprise AI product strategy | Opportunity assessment, ROI, launch planning, evaluation, governance, and adoption. |
 
-## How product managers can use this
+## How PMs can use this
 
 I maintain these frameworks so other product managers can use them as starting points for their own AI product work.
 
@@ -168,17 +137,7 @@ Product managers can use this portfolio to:
 9. Run a human-reviewed MVP.
 10. Reuse the same pattern across other commerce workflows.
 
-```text
-Copy the framework.
-Replace the business workflow.
-Adapt the tools.
-Define the evaluation.
-Ship the pilot.
-Measure the outcome.
-Improve the system.
-```
-
-## Current roadmap
+## Roadmap
 
 I maintain this roadmap to keep the portfolio focused and useful.
 
@@ -186,7 +145,6 @@ I maintain this roadmap to keep the portfolio focused and useful.
 
 - Profile README
 - Agentic AI mental model
-- Public-safe framework positioning
 - Retail commerce AI product framing
 
 ### Next
@@ -209,7 +167,7 @@ I maintain this roadmap to keep the portfolio focused and useful.
 ## About me
 
 - I’m a Product Manager at IBM working on AI agents and enterprise commerce product experiences.
-- I’m building a public-safe portfolio that combines product thinking, agent architecture, and practical AI workflows.
+- I’m building a public portfolio that combines product thinking, agent architecture, and practical AI workflows.
 - I’m interested in AI systems that can search, summarize, recommend, act with approval, and explain what happened.
 - I maintain this GitHub myself as a living reference for my AI product thinking and reusable agentic AI patterns.
 
