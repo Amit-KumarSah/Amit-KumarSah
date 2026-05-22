@@ -1,14 +1,8 @@
-# AI Product Manager building reusable agentic AI systems for retail commerce
+# Hi, I'm Amit Kumar Sah
 
-I’m **Amit Kumar Sah**, a Product Manager at IBM working on AI agents, MCP tools, LLM workflows, and enterprise commerce product experiences.
+**AI Product Manager at IBM** building reusable agentic AI systems for retail commerce.
 
-I maintain this GitHub as a living portfolio of my AI product thinking, reusable frameworks, product artifacts, and reference patterns for building agentic AI systems in retail commerce and enterprise workflows.
-
-I focus on turning AI ideas into practical product systems: agents, tools, human-in-the-loop workflows, evaluation methods, and operating models that can work inside real business processes.
-
-- I build agentic AI patterns for retail commerce, customer care, store operations, order management, inventory, fulfillment, and enterprise operations.
-- I design MCP and tool-use frameworks that help agents safely connect with business APIs, policies, and workflows.
-- I document PM playbooks for opportunity discovery, agent design, guardrails, evaluation, launch readiness, and measurable business value.
+I work on AI agents, MCP tools, LLM workflows, and enterprise commerce product experiences. This GitHub is my living portfolio for documenting product thinking, reusable frameworks, and public-safe reference patterns for agentic AI in retail and enterprise workflows.
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=flat-square)
 ![MCP Tools](https://img.shields.io/badge/MCP%20Tools-2563EB?style=flat-square)
@@ -18,17 +12,22 @@ I focus on turning AI ideas into practical product systems: agents, tools, human
 ![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-DC2626?style=flat-square)
 ![Evaluation](https://img.shields.io/badge/Evaluation-0F766E?style=flat-square)
 
-## What I work on
+## Start here
 
-I work on AI product problems where model capability, business workflow, system integration, and user trust all matter.
+- **[AI product thinking](#how-i-think-about-ai-products)** - how I frame agentic AI from workflow to value.
+- **[Agentic AI mental model](docs/AGENTIC_AI_MENTAL_MODEL.md)** - how I think about goals, context, tools, memory, controls, evaluation, and review.
+- **[Frameworks I’m building](docs/FRAMEWORKS.md)** - the reusable AI PM frameworks I am documenting.
+- **[Product areas](docs/PRODUCT_AREAS.md)** - the retail commerce and enterprise workflows I know well.
+- **[PM playbook](docs/PM_PLAYBOOK.md)** - how product managers can reuse these patterns.
+- **[Roadmap](docs/ROADMAP.md)** - what I am building next.
+
+## What I work on
 
 - AI agents for retail and commerce workflows: call centers, stores, order management, inventory, fulfillment, and operations.
 - MCP tools that let agents safely connect with business APIs and enterprise systems.
 - LLM-powered workflows for search, summaries, recommendations, guided actions, and service recovery.
-- Persona-driven product architecture for CSRs, store associates, fulfillment managers, inventory teams, IT users, and partner builders.
-- Human-in-the-loop flows for actions like cancellations, refunds, coupons, inventory changes, operational decisions, and service recovery.
-- AI product artifacts: PRDs, epics, KPIs, private preview plans, launch notes, FAQs, partner enablement, and release readiness.
-- Evaluation patterns for groundedness, usefulness, latency, tool success, trust, escalation, and business value.
+- Human-in-the-loop flows for actions like cancellations, refunds, coupons, inventory changes, and service recovery.
+- AI product artifacts: PRDs, epics, KPIs, launch notes, FAQs, partner enablement, and evaluation patterns.
 
 ## How I think about AI products
 
@@ -48,128 +47,25 @@ The questions I come back to:
 
 My bias is to start with the workflow, not the model. The model matters, but the product system around it is what makes AI useful in enterprise settings.
 
-## My agentic AI mental model
+## Current portfolio groups
 
-A useful enterprise agent is not just a prompt wrapped around a model.
+### Agent systems and tools
 
-I think of an enterprise agent as a bounded decision and execution system with:
+- **[Retail AI Agent Platform](docs/FRAMEWORKS.md#retail-ai-agent-platform)** - reusable agents, tools, guardrails, memory, approval flows, and observability.
+- **[MCP Commerce Tools](docs/FRAMEWORKS.md#mcp-commerce-tools)** - task-specific tools for commerce APIs and agent workflows.
+- **[Agentic AI Mental Model](docs/AGENTIC_AI_MENTAL_MODEL.md)** - my compact model for designing enterprise agents.
 
-- a clear business goal
-- trusted context
-- approved tools
-- explicit memory boundaries
-- permission controls
-- human approval paths
-- evaluation criteria
-- observability
-- fallback behavior
+### Product artifacts and evaluation
 
-```text
-Agentic AI System =
-Business Goal
-+ Context
-+ Tools
-+ Memory
-+ Policy
-+ Evaluation
-+ Human Review
-```
+- **[AI Agent PRDs](docs/FRAMEWORKS.md#ai-agent-prds)** - scope, users, tools, data, risks, metrics, and launch plans.
+- **[AI Evaluation Notes](docs/FRAMEWORKS.md#ai-evaluation-notes)** - usefulness, groundedness, latency, tool success, escalation quality, and trust.
+- **[PM Playbook](docs/PM_PLAYBOOK.md)** - a practical sequence PMs can use to move from workflow to pilot.
 
-**Business Goal**  
-The measurable outcome the agent is designed to improve.
+### Commerce workflow areas
 
-**Context**  
-The business, user, workflow, policy, and system information required to act usefully.
-
-**Tools**  
-The approved APIs, MCP tools, retrieval systems, and workflow actions the agent can use.
-
-**Memory**  
-The information the agent can retain across a session, user, entity, or workflow.
-
-**Policy**  
-The rules that define permissions, boundaries, approval needs, and prohibited actions.
-
-**Evaluation**  
-The test cases, metrics, and review processes that determine whether the agent is reliable.
-
-**Human Review**  
-The approval, escalation, and override paths required when risk is high.
-
-## Frameworks I’m building
-
-| Framework | What I’m documenting | Status |
-|---|---|---|
-| Retail AI Agent Platform | How reusable agents, tools, guardrails, memory, approval flows, and observability fit together. | Drafting |
-| MCP Commerce Tools | Tool specs and examples for search, validate, update, cancel, recommend, explain, and escalate workflows. | Planned |
-| AI Agent PRDs | Product requirements, user stories, KPIs, risks, launch scope, acceptance criteria, and pilot plans. | Planned |
-| RAG and Knowledge Patterns | How agents use policies, runbooks, product docs, SOPs, FAQs, and operational knowledge. | Planned |
-| AI Evaluation Notes | How I think about usefulness, groundedness, latency, tool success, escalation quality, and user trust. | Planned |
-| Partner Enablement | How reusable agent and tool patterns can help implementation teams move faster. | Planned |
-
-## Product areas I know well
-
-| Product Area | AI/Product Focus |
-|---|---|
-| Customer care and call centers | Agent assistance, guided resolution, service recovery, knowledge retrieval, and next-best action. |
-| Order management | Order status, exceptions, cancellations, fulfillment changes, promise dates, and customer communication. |
-| Store operations | Associate copilots, SOP guidance, task triage, pickup issues, and store-level exceptions. |
-| Inventory and availability | Inventory visibility, segmentation, stock anomalies, replenishment signals, and exception handling. |
-| Fulfillment and supply chain | Shipment exceptions, supplier follow-up, fulfillment delays, operational coordination, and escalation. |
-| IT operations | Monitoring, diagnostics, incident triage, support workflows, and operational summaries. |
-| Partner implementation | Reusable agent patterns, tool specs, enablement assets, and implementation playbooks. |
-| Enterprise AI product strategy | Opportunity assessment, ROI, launch planning, evaluation, governance, and adoption. |
-
-## How PMs can use this
-
-I maintain these frameworks so other product managers can use them as starting points for their own AI product work.
-
-Product managers can use this portfolio to:
-
-1. Identify where AI fits in a business workflow.
-2. Decide whether the solution should be automation, copilot, or agent.
-3. Map users, decisions, systems, policies, and approval points.
-4. Define required data sources and API/tool access.
-5. Convert business APIs into safe MCP-style tools.
-6. Design memory and context boundaries.
-7. Write AI-agent PRDs and launch artifacts.
-8. Define evaluation metrics before pilot.
-9. Run a human-reviewed MVP.
-10. Reuse the same pattern across other commerce workflows.
-
-## Roadmap
-
-I maintain this roadmap to keep the portfolio focused and useful.
-
-### Now
-
-- Profile README
-- Agentic AI mental model
-- Retail commerce AI product framing
-
-### Next
-
-- Retail AI Agent Platform
-- MCP Commerce Tools
-- AI Agent PRD templates
-- RAG and Knowledge Patterns
-- Evaluation Notes
-
-### Later
-
-- Agent pattern library
-- Demo workflows
-- Evaluation templates
-- Partner enablement examples
-- Case studies
-- Lightweight diagrams
-
-## About me
-
-- I’m a Product Manager at IBM working on AI agents and enterprise commerce product experiences.
-- I’m building a public portfolio that combines product thinking, agent architecture, and practical AI workflows.
-- I’m interested in AI systems that can search, summarize, recommend, act with approval, and explain what happened.
-- I maintain this GitHub myself as a living reference for my AI product thinking and reusable agentic AI patterns.
+- **[Product Areas](docs/PRODUCT_AREAS.md)** - customer care, order management, stores, inventory, fulfillment, IT operations, and partner implementation.
+- **[RAG and Knowledge Patterns](docs/FRAMEWORKS.md#rag-and-knowledge-patterns)** - how agents can use policies, SOPs, runbooks, FAQs, and operational knowledge.
+- **[Roadmap](docs/ROADMAP.md)** - the short plan for where I am taking this portfolio next.
 
 ## Connect
 
