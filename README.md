@@ -55,12 +55,12 @@ I work on AI product problems where model capability, business workflow, system 
 
 | Framework | What I’m documenting | Status |
 |---|---|---|
-| Retail AI Agent Platform | How reusable agents, tools, guardrails, memory, approval flows, and observability fit together | Drafting |
-| MCP Commerce Tools | Tool specs and examples for search, validate, update, cancel, recommend, explain, and escalate workflows | Planned |
-| AI Agent PRDs | Product requirements, user stories, KPIs, risks, launch scope, acceptance criteria, and pilot plans | Planned |
-| RAG and Knowledge Patterns | How agents use policies, runbooks, product docs, SOPs, FAQs, and operational knowledge | Planned |
-| AI Evaluation Notes | How I think about usefulness, groundedness, latency, tool success, escalation quality, and user trust | Planned |
-| Partner Enablement | How reusable agent and tool patterns can help implementation teams move faster | Planned |
+| Retail AI Agent Platform | How reusable agents, tools, guardrails, memory, approval flows, and observability fit together. | Drafting |
+| MCP Commerce Tools | Tool specs and examples for search, validate, update, cancel, recommend, explain, and escalate workflows. | Planned |
+| AI Agent PRDs | Product requirements, user stories, KPIs, risks, launch scope, acceptance criteria, and pilot plans. | Planned |
+| RAG and Knowledge Patterns | How agents use policies, runbooks, product docs, SOPs, FAQs, and operational knowledge. | Planned |
+| AI Evaluation Notes | How I think about usefulness, groundedness, latency, tool success, escalation quality, and user trust. | Planned |
+| Partner Enablement | How reusable agent and tool patterns can help implementation teams move faster. | Planned |
 
 ## How I think about AI products
 
@@ -132,14 +132,14 @@ The approval, escalation, and override paths required when risk is high.
 
 | Product Area | AI/Product Focus |
 |---|---|
-| Customer care and call centers | Agent assistance, guided resolution, service recovery, knowledge retrieval, and next-best action |
-| Order management | Order status, exceptions, cancellations, fulfillment changes, promise dates, and customer communication |
-| Store operations | Associate copilots, SOP guidance, task triage, pickup issues, and store-level exceptions |
-| Inventory and availability | Inventory visibility, segmentation, stock anomalies, replenishment signals, and exception handling |
-| Fulfillment and supply chain | Shipment exceptions, supplier follow-up, fulfillment delays, operational coordination, and escalation |
-| IT operations | Monitoring, diagnostics, incident triage, support workflows, and operational summaries |
-| Partner implementation | Reusable agent patterns, tool specs, enablement assets, and implementation playbooks |
-| Enterprise AI product strategy | Opportunity assessment, ROI, launch planning, evaluation, governance, and adoption |
+| Customer care and call centers | Agent assistance, guided resolution, service recovery, knowledge retrieval, and next-best action. |
+| Order management | Order status, exceptions, cancellations, fulfillment changes, promise dates, and customer communication. |
+| Store operations | Associate copilots, SOP guidance, task triage, pickup issues, and store-level exceptions. |
+| Inventory and availability | Inventory visibility, segmentation, stock anomalies, replenishment signals, and exception handling. |
+| Fulfillment and supply chain | Shipment exceptions, supplier follow-up, fulfillment delays, operational coordination, and escalation. |
+| IT operations | Monitoring, diagnostics, incident triage, support workflows, and operational summaries. |
+| Partner implementation | Reusable agent patterns, tool specs, enablement assets, and implementation playbooks. |
+| Enterprise AI product strategy | Opportunity assessment, ROI, launch planning, evaluation, governance, and adoption. |
 
 ## How product managers can use this
 
