@@ -20,6 +20,16 @@ I focus on turning AI ideas into practical product systems: agents, tools, human
 
 ---
 
+## More about this portfolio
+
+I keep the operating model, roadmap, and writing rules for this portfolio in supporting docs:
+
+- [Portfolio Operating Model](docs/PORTFOLIO_OPERATING_MODEL.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Style Guide](docs/STYLE_GUIDE.md)
+
+---
+
 ## What this GitHub is for
 
 I maintain this GitHub as more than a profile.
