@@ -2,7 +2,7 @@
 
 **AI Product Manager at IBM** building reusable agentic AI systems for retail commerce.
 
-I work on AI agents, MCP tools, LLM workflows, and enterprise commerce product experiences. This GitHub is my living portfolio for documenting product thinking, reusable frameworks, and public-safe reference patterns for agentic AI in retail and enterprise workflows.
+I work on AI product systems for enterprise commerce — agent workflows, MCP tool specs, AI-agent PRDs, evaluation scorecards, and implementation patterns across retail, order management, inventory, fulfillment, and operations.
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=flat-square)
 ![MCP Tools](https://img.shields.io/badge/MCP%20Tools-2563EB?style=flat-square)
