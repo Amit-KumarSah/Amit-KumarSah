@@ -11,7 +11,7 @@ These are the commerce and enterprise workflow areas I use as reference points f
 | Fulfillment and supply chain | Shipment exceptions, supplier follow-up, fulfillment delays, operational coordination, and escalation. |
 | IT operations | Monitoring, diagnostics, incident triage, support workflows, and operational summaries. |
 | Partner implementation | Reusable agent patterns, tool specs, enablement assets, and implementation playbooks. |
-| Enterprise AI product strategy | Opportunity assessment, ROI, launch planning, evaluation, controls, and adoption. |
+| AI pilot and adoption strategy | Use-case selection, pilot scope, launch readiness, evaluation plan, adoption loops, and workflow value. |
 
 ## How I use these areas
 
