@@ -47,6 +47,10 @@ The questions I come back to:
 
 My bias is to start with the workflow, not the model. The model matters, but the product system around it is what makes AI useful in enterprise settings.
 
+## Search and Apply Jobs
+
+- **[AutomatedJobApplication.ai](https://github.com/Amit-KumarSah/AutoJob-AI)** - An end-to-end automated pipeline for generating highly tailored, professional resumes and orchestrating the submission process using AI agents.
+
 ## Current portfolio groups
 
 ### Agent systems and tools
